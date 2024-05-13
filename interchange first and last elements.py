@@ -19,5 +19,5 @@ def interchange_list2(input_list):
 def interchange_list3(newList):
     newList[0], newList[-1] = newList[-1], newList[0]
     return newList
-Input = [12, 35, 9, 56, 24]
+Input = [12, 35, 9, 56, 24,23,1234]
 print(interchange_list2(Input))
