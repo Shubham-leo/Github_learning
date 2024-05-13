@@ -4,7 +4,7 @@ Output : [24, 35, 9, 56, 12]
 
 Input : [1, 2, 3]
 Output : [3, 2, 1]"""
-#
+
 def interchange_list(input_list):
     lenth = len(input_list)
     temp = input_list[0]
