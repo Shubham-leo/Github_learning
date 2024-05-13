@@ -26,3 +26,5 @@ Input = [12, 35, 9, 56, 24,23,1234]
 print(interchange_list2(Input))
 #calling 3rd function
 print(interchange_list3(Input))
+#calling 1st function
+print(interchange_list(Input))
