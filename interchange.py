@@ -26,11 +26,8 @@ Input = [12, 35, 9, 56, 24,23,1234]
 print(interchange_list2(Input))
 print(interchange_list2(Input))
 <<<<<<< HEAD
-<<<<<<< HEAD
 #created confilct
 =======
-=======
->>>>>>> parent of f62c2d9 (created revert)
 #created sentences to revert
 
 >>>>>>> parent of f62c2d9 (created revert)
